@@ -6,7 +6,7 @@
 
 **FPGA · Optical communication · Embedded systems · Python · Android · CAD**
 
-[Explore BrightNet](https://github.com/adig741/BrightNet-Optical-Network) · [עברית](#עברית)
+[Explore BrightNet](https://github.com/adig741/BrightNet-Optical-Network) · [BrightNet Project board](https://github.com/users/adig741/projects/2/views/1) · [עברית](#עברית)
 
 <img src="https://raw.githubusercontent.com/adig741/BrightNet-Optical-Network/main/assets/brightnet-cover.jpg" alt="Concept illustration of the BrightNet lamp and dongle" width="420">
 
@@ -25,7 +25,7 @@ BrightNet is my final engineering project at Shenkar College: a prototype for bi
 | Software | Windows Universal Console and Android companion app for communication and testing |
 | Engineering record | Schematics, design iterations, simulations, release files, and validation notes |
 
-The [public BrightNet overview](https://github.com/adig741/BrightNet-Optical-Network) includes a system diagram and selected interface screenshots. It also explains the project's recorded validation status and its limits. The full engineering archive and submission files are kept privately.
+The [public BrightNet overview](https://github.com/adig741/BrightNet-Optical-Network) includes a system diagram and selected interface screenshots. The [BrightNet Project board](https://github.com/users/adig741/projects/2/views/1) organizes the documented work and open verification steps. The overview explains the project's recorded validation status and its limits. The full engineering archive and submission files are kept privately.
 
 ## What interests me
 
@@ -33,4 +33,4 @@ Making hardware and software work together end to end: from a signal at a sensor
 
 ## עברית
 
-אני עדי, ובפרויקט הגמר שלי בשנקר בניתי את **BrightNet** — אב־טיפוס לתקשורת נתונים דו־כיוונית באמצעות אור נראה. הפרויקט משלב FPGA, תכנון אופטי ואלקטרוני, תוכנת Windows ואפליקציית Android. [לסקירה הציבורית של הפרויקט](https://github.com/adig741/BrightNet-Optical-Network).
+אני עדי, ובפרויקט הגמר שלי בשנקר בניתי את **BrightNet** — אב־טיפוס לתקשורת נתונים דו־כיוונית באמצעות אור נראה. הפרויקט משלב FPGA, תכנון אופטי ואלקטרוני, תוכנת Windows ואפליקציית Android. [לסקירה הציבורית של הפרויקט](https://github.com/adig741/BrightNet-Optical-Network) · [ללוח הפרויקט](https://github.com/users/adig741/projects/2/views/1).
