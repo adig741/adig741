@@ -22,12 +22,16 @@ My final engineering project at Shenkar College explores bidirectional data comm
 | :--- | :--- | :--- |
 | LED transmitter, lens, photodiode receiver and enclosures | DECA MAX 10 and DE0 Cyclone III endpoints, framing and CRC | Windows Universal Console, Android companion app, schematics and validation notes |
 
-[Explore BrightNet](https://github.com/adig741/BrightNet-Optical-Network) · [View project board](https://github.com/users/adig741/projects/2/views/1)
+[BrightNet project page](https://github.com/adig741/BrightNet-Optical-Network) · [BrightNet Projects page and board](https://github.com/users/adig741/projects/2/views/1?pane=info) · [Full archive 🔒](https://github.com/adig741/BrightNet-Project-Archive) <sub>(private; access required)</sub>
+
+The private archive holds BrightNet source and final deliverables. Its older drafts and generated files are stored in [seven downloadable archive volumes](https://github.com/adig741/BrightNet-Project-Archive/tree/main/11_Historical_Backup).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/adig741/BrightNet-Optical-Network/main/assets/brightnet-cover.jpg" alt="Concept illustration of the BrightNet lamp and dongle" width="540">
   <br><sub>BrightNet concept illustration</sub>
 </p>
+
+---
 
 ### ⚖️ SmartBite · a responsive scale prototype
 
@@ -39,7 +43,7 @@ An Arduino course prototype that brings together an HX711 weight sensor, a 15 LE
 
 `Arduino / C++` · `HX711` · `FastLED` · `Bluetooth` · `WS2812B`
 
-[Source and coursework archive 🔒](https://github.com/adig741/SmartBite-Product-Development) <sub>(private repository; access required)</sub>
+[SmartBite project board 🔒](https://github.com/users/adig741/projects/4/views/1?pane=info) · [Source and coursework archive 🔒](https://github.com/adig741/SmartBite-Product-Development) <sub>(both private; access required)</sub>
 
 ## What I enjoy building
 
@@ -51,8 +55,8 @@ I like following a signal through an entire system: sensing something in the phy
 
 אני עדי, ובונה אבטיפוסים שמחברים בין אלקטרוניקה, תוכנה וחוויית משתמש.
 
-**BrightNet** הוא פרויקט הגמר שלי בשנקר: אבטיפוס לתקשורת נתונים דו־כיוונית באמצעות אור נראה, הכולל רכיבי FPGA, תכנון אופטי, תוכנת Windows ואפליקציית Android. [לסקירת הפרויקט](https://github.com/adig741/BrightNet-Optical-Network) · [ללוח הפרויקט](https://github.com/users/adig741/projects/2/views/1).
+**BrightNet** הוא פרויקט הגמר שלי בשנקר: אבטיפוס לתקשורת נתונים דו־כיוונית באמצעות אור נראה, הכולל רכיבי FPGA, תכנון אופטי, תוכנת Windows ואפליקציית Android. [לדף הפרויקט](https://github.com/adig741/BrightNet-Optical-Network) · [לדף Projects והלוח של BrightNet](https://github.com/users/adig741/projects/2/views/1?pane=info) · [לארכיון המלא](https://github.com/adig741/BrightNet-Project-Archive) השמור במאגר פרטי. טיוטות וקבצים שנוצרו במהלך העבודה זמינים בארכיון בשבעה חלקים להורדה.
 
-**SmartBite** הוא אבטיפוס Arduino המשלב חיישן משקל, פס נורות וכפתור עם פקודות Bluetooth. [ארכיון הקוד והחומרים](https://github.com/adig741/SmartBite-Product-Development) שמור במאגר פרטי.
+**SmartBite** הוא אבטיפוס Arduino המשלב חיישן משקל, פס נורות וכפתור עם פקודות Bluetooth. [לוח Projects של SmartBite](https://github.com/users/adig741/projects/4/views/1?pane=info) ו[ארכיון הקוד והחומרים](https://github.com/adig741/SmartBite-Product-Development) שמורים בנפרד, עם גישה פרטית.
 
 </div>
