@@ -34,7 +34,7 @@ An Arduino prototype combining an HX711 weight sensor, an addressable LED strip 
 
 ### Arduino Tic-Tac-Toe — touchscreen game
 
-A two-player game for Arduino Mega with a TFT touchscreen and buzzer. It handles touch input, turns, wins and draws; the public showcase includes photos, video and a playable browser simulation.
+A two-player game for Arduino Mega with a TFT touchscreen and buzzer. It handles touch input, turns, wins and draws; the public showcase includes photos and a playable browser simulation.
 
 [View the source and setup](https://github.com/adig741/arduino-tic-tac-toe-touchscreen) · [Try the browser demo](https://adig741.github.io/arduino-tic-tac-toe-touchscreen/)
 
