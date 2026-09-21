@@ -6,7 +6,7 @@
 
 **FPGA · Optical communication · Embedded systems · Python · Android · CAD**
 
-[Explore BrightNet](https://github.com/adig741/BrightNet-Optical-Network) · [BrightNet Project board](https://github.com/users/adig741/projects/2/views/1) · [עברית](#עברית)
+[BrightNet project page](https://github.com/adig741/BrightNet-Optical-Network) · [Projects page and board](https://github.com/users/adig741/projects/2/views/1?pane=info) · [All files and backup (private)](https://github.com/adig741/BrightNet-Project-Archive) · [עברית](#עברית)
 
 <img src="https://raw.githubusercontent.com/adig741/BrightNet-Optical-Network/main/assets/brightnet-cover.jpg" alt="Concept illustration of the BrightNet lamp and dongle" width="420">
 
@@ -25,7 +25,7 @@ BrightNet is my final engineering project at Shenkar College: a prototype for bi
 | Software | Windows Universal Console and Android companion app for communication and testing |
 | Engineering record | Schematics, design iterations, simulations, release files, and validation notes |
 
-The [public BrightNet overview](https://github.com/adig741/BrightNet-Optical-Network) includes a system diagram and selected interface screenshots. The [BrightNet Project board](https://github.com/users/adig741/projects/2/views/1) organizes the documented work and open verification steps. The overview explains the project's recorded validation status and its limits. The full engineering archive and submission files are kept privately.
+The [BrightNet project page](https://github.com/adig741/BrightNet-Optical-Network) includes a system diagram and selected interface screenshots. The [Projects page and board](https://github.com/users/adig741/projects/2/views/1?pane=info) organize the documented work and open verification steps. Sign in to the owning account to browse [the private engineering archive](https://github.com/adig741/BrightNet-Project-Archive), including source and final deliverables. Older drafts and generated files are in [seven downloadable archive volumes](https://github.com/adig741/BrightNet-Project-Archive/tree/main/11_Historical_Backup), so they do not appear as individual files in GitHub.
 
 ## What interests me
 
@@ -33,4 +33,4 @@ Making hardware and software work together end to end: from a signal at a sensor
 
 ## עברית
 
-אני עדי, ובפרויקט הגמר שלי בשנקר בניתי את **BrightNet** — אב־טיפוס לתקשורת נתונים דו־כיוונית באמצעות אור נראה. הפרויקט משלב FPGA, תכנון אופטי ואלקטרוני, תוכנת Windows ואפליקציית Android. [לסקירה הציבורית של הפרויקט](https://github.com/adig741/BrightNet-Optical-Network) · [ללוח הפרויקט](https://github.com/users/adig741/projects/2/views/1).
+אני עדי, ובפרויקט הגמר שלי בשנקר בניתי את **BrightNet** — אב־טיפוס לתקשורת נתונים דו־כיוונית באמצעות אור נראה. הפרויקט משלב FPGA, תכנון אופטי ואלקטרוני, תוכנת Windows ואפליקציית Android. [לדף הפרויקט המושקע](https://github.com/adig741/BrightNet-Optical-Network) · [לדף Projects והלוח](https://github.com/users/adig741/projects/2/views/1?pane=info) · [לכל הקבצים והגיבוי במאגר הפרטי](https://github.com/adig741/BrightNet-Project-Archive). יש להיכנס לחשבון הבעלים כדי לראות את המאגר הפרטי; קבצים היסטוריים נשמרים בו בארכיון מחולק להורדה.
