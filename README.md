@@ -1,59 +1,51 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Abstract electronics banner: light, signals and digital interfaces" width="100%">
+<img src="assets/profile-banner.svg" alt="Adi Goldstein — electronics engineer, embedded systems and digital design" width="100%">
 
-# Hi, I'm Adi Goldstein
+**Electronics engineer building where hardware meets software.**
 
-### Electronics Engineer · Embedded Systems · Digital Design
+I work across sensors, firmware and interfaces to turn ideas into usable prototypes.
 
-I turn physical signals into working systems, connecting electronics, firmware and software from the first prototype to the interface people use.
-
-[About](#about) · [Projects](#projects) · [Toolbox](#toolbox)
+[Featured projects](#featured-projects) · [More work](#more-work) · [Toolbox](#toolbox)
 
 </div>
 
-## About
+## Featured projects
 
-I'm an electronics engineer who enjoys building across the boundary between hardware and software. My projects span sensing and connected devices, mobile tools and interactive games. I like to understand the whole system: how a signal is measured, how a controller responds and how someone uses the result.
+### 🎮 Arduino Touchscreen Tic-Tac-Toe
 
-## Projects
+A two-player game built for an Arduino Mega 2560 with a TFT touchscreen and buzzer. The sketch handles touch input, player turns and win/draw detection. The repository includes photos and an interactive browser simulation.
 
-### CarePay · Caregiver Payroll Tools
+**Built with:** Arduino C++ · TFT touchscreen  
+**Explore:** [Source and hardware details](https://github.com/adig741/Arduino-Touchscreen-Tic-Tac-Toe) · [Play the browser simulation](https://adig741.github.io/Arduino-Touchscreen-Tic-Tac-Toe/)
 
-A TypeScript and React Native application for monthly caregiver payroll calculations, with a calendar, holiday information and reports. Designed for Android, iOS and web.
+### 🐍 Two-Player Snake Game
 
-`TypeScript` · `React Native` · `Cross-platform apps`
+A local desktop game in Python and Pygame for two players sharing a keyboard. Three difficulty modes, separate scores and sound controls make it easy to play head to head.
 
-### SmartBite · Connected Scale Prototype
+**Built with:** Python · Pygame  
+**Explore:** [Source and setup](https://github.com/adig741/Two-Player-Snake-Game) · [Project showcase and gameplay](https://adig741.github.io/Two-Player-Snake-Game/)
 
-An Arduino prototype that combines HX711-based weighing and calibration with addressable LED effects and Bluetooth commands. The sketches bring sensor readings and lighting controls into one physical prototype.
+## More work
 
-`Arduino` · `HX711` · `Bluetooth` · `LEDs`
+The repositories for these projects are private, so this page shares a short overview of each.
 
-<img src="assets/smartbite-card.svg" alt="SmartBite architecture: HX711 input, Arduino controller, LED feedback and Bluetooth commands" width="100%">
+### ⚖️ SmartBite · Connected Scale Prototype
 
-### Arduino Touchscreen Tic-Tac-Toe
+An Arduino product development prototype that reads weight through an HX711 module, supports tare and calibration, and combines Bluetooth commands with addressable LED effects.
 
-A two-player game for Arduino Mega with a TFT touchscreen and buzzer. It responds to touch, tracks turns and recognizes wins and draws. The public showcase includes photos and a playable browser simulation.
+**Built with:** Arduino · HX711 · Bluetooth · WS2812B LEDs
 
-`Arduino Mega` · `TFT touchscreen` · `Browser demo`
+<img src="assets/smartbite-card.svg" alt="SmartBite: scale sensor, Arduino controller, Bluetooth commands and LED feedback" width="100%">
 
-[View the source and setup →](https://github.com/adig741/Arduino-Touchscreen-Tic-Tac-Toe) · [Play the browser demo →](https://adig741.github.io/Arduino-Touchscreen-Tic-Tac-Toe/)
+### 📱 CarePay · Caregiver Payroll Tools
 
-### Two-Player Snake Game
+A TypeScript and React Native app for organizing monthly caregiver payroll calculations, calendar and holiday information, and reports. Its codebase targets Android, iOS and web.
 
-A two-player Snake game built with Python and Pygame for a Shenkar programming project.
-
-`Python` · `Pygame`
-
-[View the source and setup →](https://github.com/adig741/Two-Player-Snake-Game) · [Explore the project page →](https://adig741.github.io/Two-Player-Snake-Game/)
-
-> Arduino Touchscreen Tic-Tac-Toe and Two-Player Snake Game are public. The CarePay and SmartBite source repositories are private.
+**Built with:** TypeScript · React Native · Expo
 
 ## Toolbox
 
-| Area | Tools and technologies |
-| --- | --- |
-| Electronics and digital systems | Arduino, sensors, FPGA, Verilog |
-| Programming and applications | C++, Python, TypeScript, React Native, Pygame |
-| Interfaces | Windows tools, Android apps, browser demos |
+- **Physical systems:** sensors, touchscreens and LEDs
+- **Control and logic:** Arduino, C++, FPGA and Verilog
+- **Apps and experiences:** Python, Pygame, TypeScript, React Native, Windows and Android interfaces
