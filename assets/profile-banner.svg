@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">Adi — hardware, software and light</title>
+  <title id="title">Adi Goldstein — electronics engineer</title>
   <desc id="desc">Abstract circuit lines connect a light source, sensor and digital interface.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10182D"/><stop offset=".55" stop-color="#172540"/><stop offset="1" stop-color="#17223A"/></linearGradient>
@@ -20,8 +20,8 @@
   <circle cx="1050" cy="138" r="10" fill="#D8CFFF"/>
   <rect x="817" y="216" width="80" height="66" rx="10" fill="#1F3855" stroke="#71CFDC" stroke-width="2"/>
   <path d="M838 249h38m-19-17v34" stroke="#8BE8E7" stroke-width="3" stroke-linecap="round" opacity=".85"/>
-  <text x="72" y="132" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" fill="#F8FAFF">ADI</text>
-  <rect x="73" y="156" width="76" height="5" rx="2.5" fill="url(#beam)"/>
+  <text x="72" y="132" font-family="Segoe UI, Arial, sans-serif" font-size="53" font-weight="700" fill="#F8FAFF">ADI GOLDSTEIN</text>
+  <rect x="73" y="156" width="172" height="5" rx="2.5" fill="url(#beam)"/>
   <text x="72" y="216" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500" fill="#DCE7F8">From a physical signal to a useful experience.</text>
-  <text x="72" y="264" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#9EB3D1">ELECTRONICS  /  EMBEDDED SYSTEMS  /  SOFTWARE</text>
+  <text x="72" y="264" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#9EB3D1">ELECTRONICS ENGINEER  /  EMBEDDED SYSTEMS  /  FPGA</text>
 </svg>
