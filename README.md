@@ -18,13 +18,13 @@ I'm an electronics engineer who enjoys building across the boundary between hard
 
 ## Projects
 
-### CarePay · Caregiver payroll tools
+### CarePay · Caregiver Payroll Tools
 
 A TypeScript and React Native application for monthly caregiver payroll calculations, with a calendar, holiday information and reports. Designed for Android, iOS and web.
 
 `TypeScript` · `React Native` · `Cross-platform apps`
 
-### SmartBite · Connected scale prototype
+### SmartBite · Connected Scale Prototype
 
 An Arduino prototype that combines HX711-based weighing and calibration with addressable LED effects and Bluetooth commands. The sketches bring sensor readings and lighting controls into one physical prototype.
 
@@ -32,21 +32,23 @@ An Arduino prototype that combines HX711-based weighing and calibration with add
 
 <img src="assets/smartbite-card.svg" alt="SmartBite architecture: HX711 input, Arduino controller, LED feedback and Bluetooth commands" width="100%">
 
-### Arduino Tic-Tac-Toe · Touchscreen game
+### Arduino Touchscreen Tic-Tac-Toe
 
 A two-player game for Arduino Mega with a TFT touchscreen and buzzer. It responds to touch, tracks turns and recognizes wins and draws. The public showcase includes photos and a playable browser simulation.
 
 `Arduino Mega` · `TFT touchscreen` · `Browser demo`
 
-[View the source and setup →](https://github.com/adig741/arduino-tic-tac-toe-touchscreen) · [Play the browser demo →](https://adig741.github.io/arduino-tic-tac-toe-touchscreen/)
+[View the source and setup →](https://github.com/adig741/Arduino-Touchscreen-Tic-Tac-Toe) · [Play the browser demo →](https://adig741.github.io/Arduino-Touchscreen-Tic-Tac-Toe/)
 
-### Snake · Two-player game
+### Two-Player Snake Game
 
 A two-player Snake game built with Python and Pygame for a Shenkar programming project.
 
 `Python` · `Pygame`
 
-> Arduino Tic-Tac-Toe has a public project page. The source repositories for CarePay, SmartBite and Snake are private.
+[View the source and setup →](https://github.com/adig741/Two-Player-Snake-Game) · [Explore the project page →](https://adig741.github.io/Two-Player-Snake-Game/)
+
+> Arduino Touchscreen Tic-Tac-Toe and Two-Player Snake Game are public. The CarePay and SmartBite source repositories are private.
 
 ## Toolbox
 
