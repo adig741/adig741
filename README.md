@@ -49,7 +49,7 @@ An Arduino course prototype that brings together an HX711 weight sensor, a 15 LE
 
 ### 🎮 Arduino Tic-Tac-Toe · a touchscreen game
 
-An earlier Programming 1 project by Faraj Kharbaoui and me: a two-player Tic-Tac-Toe game on an Arduino Mega 2560 with an Elegoo touch display and buzzer. The sketch handles touch input, turns, win and tie detection, and sound feedback. The project page includes photos, a video, and a playable browser version.
+An earlier Programming 1 project: a two-player Tic-Tac-Toe game on an Arduino Mega 2560 with an Elegoo touch display and buzzer. The sketch handles touch input, turns, win and tie detection, and sound feedback. The project page includes photos, a video, and a playable browser version.
 
 [Explore the project page](https://adig741.github.io/arduino-tic-tac-toe-touchscreen/) · [Source and setup](https://github.com/adig741/arduino-tic-tac-toe-touchscreen)
 
@@ -71,6 +71,6 @@ I like following a signal through an entire system: sensing something in the phy
 
 **SmartBite** הוא אבטיפוס Arduino המשלב חיישן משקל, פס נורות וכפתור עם פקודות Bluetooth. [לוח Projects של SmartBite](https://github.com/users/adig741/projects/4/views/1?pane=info) ו[ארכיון הקוד והחומרים](https://github.com/adig741/SmartBite-Product-Development) שמורים בנפרד, עם גישה פרטית.
 
-בפרויקט מוקדם יותר בניתי עם פרג׳ חרבאוי [משחק איקס עיגול לארדואינו](https://adig741.github.io/arduino-tic-tac-toe-touchscreen/) על מסך מגע, עם צלילים וזיהוי ניצחון. [הקוד והוראות ההתקנה](https://github.com/adig741/arduino-tic-tac-toe-touchscreen) זמינים ב־GitHub.
+פרויקט מוקדם נוסף הוא [משחק איקס עיגול לארדואינו](https://adig741.github.io/arduino-tic-tac-toe-touchscreen/) על מסך מגע, עם צלילים וזיהוי ניצחון. [הקוד והוראות ההתקנה](https://github.com/adig741/arduino-tic-tac-toe-touchscreen) זמינים ב־GitHub.
 
 </div>
