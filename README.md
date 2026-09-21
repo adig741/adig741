@@ -8,7 +8,7 @@ I build prototypes that connect **hardware, software and human experience**.
 
 `Embedded systems` · `FPGA` · `Physical computing` · `Python` · `Android` · `CAD`
 
-[Selected projects](#selected-projects) · [What I enjoy building](#what-i-enjoy-building) · [עברית](#עברית)
+[Selected projects](#selected-projects) · [Arduino Tic-Tac-Toe](https://adig741.github.io/arduino-tic-tac-toe-touchscreen/) · [What I enjoy building](#what-i-enjoy-building) · [עברית](#עברית)
 
 </div>
 
@@ -45,6 +45,18 @@ An Arduino course prototype that brings together an HX711 weight sensor, a 15 LE
 
 [SmartBite project board 🔒](https://github.com/users/adig741/projects/4/views/1?pane=info) · [Source and coursework archive 🔒](https://github.com/adig741/SmartBite-Product-Development) <sub>(both private; access required)</sub>
 
+---
+
+### 🎮 Arduino Tic-Tac-Toe · a touchscreen game
+
+An earlier Programming 1 project by Faraj Kharbaoui and me: a two-player Tic-Tac-Toe game on an Arduino Mega 2560 with an Elegoo touch display and buzzer. The sketch handles touch input, turns, win and tie detection, and sound feedback. The project page includes photos, a video, and a playable browser version.
+
+[Explore the project page](https://adig741.github.io/arduino-tic-tac-toe-touchscreen/) · [Source and setup](https://github.com/adig741/arduino-tic-tac-toe-touchscreen)
+
+<p align="center">
+  <a href="https://adig741.github.io/arduino-tic-tac-toe-touchscreen/"><img src="https://raw.githubusercontent.com/adig741/arduino-tic-tac-toe-touchscreen/main/docs/assets/hero-start.jpg" alt="Arduino Tic-Tac-Toe start screen" width="360"></a>
+</p>
+
 ## What I enjoy building
 
 I like following a signal through an entire system: sensing something in the physical world, shaping it with logic and a protocol, and making the result understandable through light or an interface. My work spans experimental hardware, embedded code and the tools needed to test and explain a prototype.
@@ -58,5 +70,7 @@ I like following a signal through an entire system: sensing something in the phy
 **BrightNet** הוא פרויקט הגמר שלי בשנקר: אבטיפוס לתקשורת נתונים דו־כיוונית באמצעות אור נראה, הכולל רכיבי FPGA, תכנון אופטי, תוכנת Windows ואפליקציית Android. [לדף הפרויקט](https://github.com/adig741/BrightNet-Optical-Network) · [לדף Projects והלוח של BrightNet](https://github.com/users/adig741/projects/2/views/1?pane=info) · [לארכיון המלא](https://github.com/adig741/BrightNet-Project-Archive) השמור במאגר פרטי. טיוטות וקבצים שנוצרו במהלך העבודה זמינים בארכיון בשבעה חלקים להורדה.
 
 **SmartBite** הוא אבטיפוס Arduino המשלב חיישן משקל, פס נורות וכפתור עם פקודות Bluetooth. [לוח Projects של SmartBite](https://github.com/users/adig741/projects/4/views/1?pane=info) ו[ארכיון הקוד והחומרים](https://github.com/adig741/SmartBite-Product-Development) שמורים בנפרד, עם גישה פרטית.
+
+בפרויקט מוקדם יותר בניתי עם פרג׳ חרבאוי [משחק איקס עיגול לארדואינו](https://adig741.github.io/arduino-tic-tac-toe-touchscreen/) על מסך מגע, עם צלילים וזיהוי ניצחון. [הקוד והוראות ההתקנה](https://github.com/adig741/arduino-tic-tac-toe-touchscreen) זמינים ב־GitHub.
 
 </div>
