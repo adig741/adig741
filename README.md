@@ -1,36 +1,76 @@
 <div align="center">
 
+<img src="assets/profile-banner.svg" alt="Adi — electronics, embedded systems and thoughtful interfaces" width="100%">
+
 # Hi, I'm Adi 👋
 
-### I build systems where electronics, light, and software meet.
+I build prototypes that connect **hardware, software and human experience**.
 
-**FPGA · Optical communication · Embedded systems · Python · Android · CAD**
+`Embedded systems` · `FPGA` · `Physical computing` · `Python` · `Android` · `CAD`
 
-[Complete BrightNet project (private)](https://github.com/adig741/BrightNet-Project-Archive) · [Public project page](https://github.com/adig741/BrightNet-Optical-Network) · [עברית](#עברית)
-
-<img src="https://raw.githubusercontent.com/adig741/BrightNet-Optical-Network/main/assets/brightnet-cover.jpg" alt="Concept illustration of the BrightNet lamp and dongle" width="420">
-
-<sub>BrightNet concept illustration</sub>
+[Completed BrightNet project](https://github.com/adig741/BrightNet-Project-Archive) 🔒 · [Selected projects](#selected-projects) · [Arduino Tic-Tac-Toe](https://adig741.github.io/arduino-tic-tac-toe-touchscreen/) · [עברית](#עברית)
 
 </div>
 
-## Featured completed project: BrightNet
+## Selected projects
 
-BrightNet is my final engineering project at Shenkar College: a prototype for bidirectional data communication through visible light. The work connects a lamp and a dongle through an optical link, with FPGA firmware at both ends and Windows and Android tools for control and diagnostics.
+### 💡 BrightNet · completed engineering project
 
-| Layer | What I built and documented |
-| --- | --- |
-| Digital hardware | DECA MAX 10 and DE0 Cyclone III FPGA endpoints, framing, CRC, and host interfaces |
-| Optical and physical design | LED transmitter, lens and photodiode receiver, alignment, and enclosure models |
-| Software | Windows Universal Console and Android companion app for communication and testing |
-| Engineering record | Schematics, design iterations, simulations, release files, and validation notes |
+My completed final engineering project at Shenkar College explores bidirectional data communication through visible light. A lamp and dongle form an optical link, with FPGA firmware and Windows and Android tools for control and diagnostics.
 
-The completed project's [full repository](https://github.com/adig741/BrightNet-Project-Archive) holds the source, final deliverables, and engineering record. Sign in to the owning account to open it. The [public project page](https://github.com/adig741/BrightNet-Optical-Network) presents the system diagram and selected interface screenshots. Older drafts and generated files are in [seven downloadable archive volumes](https://github.com/adig741/BrightNet-Project-Archive/tree/main/11_Historical_Backup), so they do not appear as individual files in GitHub. The [closed Projects board](https://github.com/users/adig741/projects/2/views/1?pane=info) remains as a development record.
+| Hardware and optics | Digital logic | Software and documentation |
+| :--- | :--- | :--- |
+| LED transmitter, lens, photodiode receiver and enclosures | DECA MAX 10 and DE0 Cyclone III endpoints, framing and CRC | Windows Universal Console, Android companion app, schematics and validation notes |
 
-## What interests me
+[Open the complete BrightNet repository 🔒](https://github.com/adig741/BrightNet-Project-Archive) <sub>(private; sign in to the owning account)</sub> · [View the public project page](https://github.com/adig741/BrightNet-Optical-Network)
 
-Making hardware and software work together end to end: from a signal at a sensor, through digital logic and a protocol, to an interface that helps someone understand what happened.
+The private repository is the canonical home for BrightNet source, final deliverables and engineering documentation. Its older drafts and generated files are stored in [seven downloadable archive volumes](https://github.com/adig741/BrightNet-Project-Archive/tree/main/11_Historical_Backup), so they do not appear as individual files in GitHub. The [closed Projects board](https://github.com/users/adig741/projects/2/views/1?pane=info) remains as a record of the development process.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adig741/BrightNet-Optical-Network/main/assets/brightnet-cover.jpg" alt="Concept illustration of the BrightNet lamp and dongle" width="540">
+  <br><sub>BrightNet concept illustration</sub>
+</p>
+
+---
+
+### ⚖️ SmartBite · a responsive scale prototype
+
+An Arduino course prototype that brings together an HX711 weight sensor, a 15 LED WS2812B strip, a button and HC-06 Bluetooth communication. The sketches include weight reading and calibration, light patterns, and simple text commands for controlling color and requesting a reading.
+
+<p align="center">
+  <img src="assets/smartbite-card.svg" alt="Diagram of the SmartBite sensor, Arduino, LED strip and Bluetooth module" width="720">
+</p>
+
+`Arduino / C++` · `HX711` · `FastLED` · `Bluetooth` · `WS2812B`
+
+[SmartBite project board 🔒](https://github.com/users/adig741/projects/4/views/1?pane=info) · [Source and coursework archive 🔒](https://github.com/adig741/SmartBite-Product-Development) <sub>(both private; access required)</sub>
+
+---
+
+### 🎮 Arduino Tic-Tac-Toe · a touchscreen game
+
+An earlier Programming 1 project by Faraj Kharbaoui and me: a two-player Tic-Tac-Toe game on an Arduino Mega 2560 with an Elegoo touch display and buzzer. The sketch handles touch input, turns, win and tie detection, and sound feedback. The project page includes photos, a video, and a playable browser version.
+
+[Explore the project page](https://adig741.github.io/arduino-tic-tac-toe-touchscreen/) · [Source and setup](https://github.com/adig741/arduino-tic-tac-toe-touchscreen)
+
+<p align="center">
+  <a href="https://adig741.github.io/arduino-tic-tac-toe-touchscreen/"><img src="https://raw.githubusercontent.com/adig741/arduino-tic-tac-toe-touchscreen/main/docs/assets/hero-start.jpg" alt="Arduino Tic-Tac-Toe start screen" width="360"></a>
+</p>
+
+## What I enjoy building
+
+I like following a signal through an entire system: sensing something in the physical world, shaping it with logic and a protocol, and making the result understandable through light or an interface. My work spans experimental hardware, embedded code and the tools needed to test and explain a prototype.
 
 ## עברית
 
-אני עדי, ובפרויקט הגמר שלי בשנקר בניתי את **BrightNet** — אב־טיפוס לתקשורת נתונים דו־כיוונית באמצעות אור נראה. הפרויקט הושלם ומשלב FPGA, תכנון אופטי ואלקטרוני, תוכנת Windows ואפליקציית Android. [לפרויקט המלא ולכל הקבצים במאגר הפרטי](https://github.com/adig741/BrightNet-Project-Archive) · [לדף התצוגה הציבורי](https://github.com/adig741/BrightNet-Optical-Network). יש להיכנס לחשבון הבעלים כדי לראות את המאגר הפרטי; קבצים היסטוריים נשמרים בו בארכיון מחולק להורדה. [לוח Projects הסגור](https://github.com/users/adig741/projects/2/views/1?pane=info) נשמר כתיעוד של תהליך העבודה.
+<div dir="rtl">
+
+אני עדי, ובונה אבטיפוסים שמחברים בין אלקטרוניקה, תוכנה וחוויית משתמש.
+
+**BrightNet** הוא פרויקט הגמר שהשלמתי בשנקר: אבטיפוס לתקשורת נתונים דו־כיוונית באמצעות אור נראה, הכולל רכיבי FPGA, תכנון אופטי, תוכנת Windows ואפליקציית Android. [למאגר הפרויקט המלא ולקבצים](https://github.com/adig741/BrightNet-Project-Archive) 🔒 (פרטי; יש להיכנס לחשבון הבעלים) · [לדף התצוגה הציבורי](https://github.com/adig741/BrightNet-Optical-Network). המאגר הפרטי הוא הבית הראשי של הפרויקט; טיוטות וקבצים שנוצרו במהלך העבודה זמינים בו בארכיון בשבעה חלקים להורדה. [לוח Projects הסגור](https://github.com/users/adig741/projects/2/views/1?pane=info) נשמר כתיעוד של תהליך העבודה.
+
+**SmartBite** הוא אבטיפוס Arduino המשלב חיישן משקל, פס נורות וכפתור עם פקודות Bluetooth. [לוח Projects של SmartBite](https://github.com/users/adig741/projects/4/views/1?pane=info) ו[ארכיון הקוד והחומרים](https://github.com/adig741/SmartBite-Product-Development) שמורים בנפרד, עם גישה פרטית.
+
+בפרויקט מוקדם יותר בניתי עם פרג׳ חרבאוי [משחק איקס עיגול לארדואינו](https://adig741.github.io/arduino-tic-tac-toe-touchscreen/) על מסך מגע, עם צלילים וזיהוי ניצחון. [הקוד והוראות ההתקנה](https://github.com/adig741/arduino-tic-tac-toe-touchscreen) זמינים ב־GitHub.
+
+</div>
