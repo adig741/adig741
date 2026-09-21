@@ -4,7 +4,7 @@
 
 **Electronics engineer building where hardware meets software.**
 
-I work across sensors, firmware and interfaces to turn ideas into usable prototypes.
+My projects span visible light communication with FPGAs, connected devices, mobile tools and interactive games.
 
 [Featured projects](#featured-projects) · [More work](#more-work) · [Toolbox](#toolbox)
 
@@ -28,7 +28,13 @@ A local desktop game in Python and Pygame for two players sharing a keyboard. Th
 
 ## More work
 
-The repositories for these projects are private, so this page shares a short overview of each.
+These project repositories are private. The descriptions below share the work without exposing the files.
+
+### 💡 BrightNet · Visible Light Communication
+
+A completed engineering capstone exploring data transfer in both directions between a lamp and dongle through visible light. It brings together FPGA endpoints, electronics and optics, a Windows control console, and an Android companion app.
+
+**Built with:** FPGA · optics · Windows · Android
 
 ### ⚖️ SmartBite · Connected Scale Prototype
 
@@ -46,6 +52,6 @@ A TypeScript and React Native app for organizing monthly caregiver payroll calcu
 
 ## Toolbox
 
-- **Physical systems:** sensors, touchscreens and LEDs
+- **Physical systems:** sensors, optics, touchscreens and LEDs
 - **Control and logic:** Arduino, C++, FPGA and Verilog
 - **Apps and experiences:** Python, Pygame, TypeScript, React Native, Windows and Android interfaces
