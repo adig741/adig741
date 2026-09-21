@@ -14,17 +14,9 @@ I turn physical signals into working systems, connecting electronics, firmware a
 
 ## About
 
-I'm an electronics engineer who enjoys building across the boundary between hardware and software. My projects span visible-light communication, sensing and connected devices, mobile tools and interactive games. I like to understand the whole system: how a signal is measured, how a controller responds and how someone uses the result.
+I'm an electronics engineer who enjoys building across the boundary between hardware and software. My projects span sensing and connected devices, mobile tools and interactive games. I like to understand the whole system: how a signal is measured, how a controller responds and how someone uses the result.
 
 ## Projects
-
-### BrightNet · Visible-light communication
-
-An engineering prototype at Shenkar exploring bidirectional data transfer through visible light. An LED transmitter and photodiode receiver form the optical link between FPGA endpoints; a Windows diagnostic console and Android companion app support testing and control.
-
-`FPGA` · `Optical link` · `Windows` · `Android`
-
-[Explore the public project page →](https://github.com/adig741/BrightNet-Optical-Network)
 
 ### CarePay · Caregiver payroll tools
 
@@ -54,12 +46,12 @@ A two-player Snake game built with Python and Pygame for a Shenkar programming p
 
 `Python` · `Pygame`
 
-> BrightNet and Arduino Tic-Tac-Toe have public project pages. The source repositories for CarePay, SmartBite and Snake are private.
+> Arduino Tic-Tac-Toe has a public project page. The source repositories for CarePay, SmartBite and Snake are private.
 
 ## Toolbox
 
 | Area | Tools and technologies |
 | --- | --- |
-| Electronics and digital systems | Arduino, sensors, optical links, FPGA, Verilog |
+| Electronics and digital systems | Arduino, sensors, FPGA, Verilog |
 | Programming and applications | C++, Python, TypeScript, React Native, Pygame |
 | Interfaces | Windows tools, Android apps, browser demos |
